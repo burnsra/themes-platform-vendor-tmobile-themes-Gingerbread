@@ -15,16 +15,8 @@
  # limitations under the License.
  -->
 
-<theme-redirections
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:pluto="http://www.w3.org/2001/pluto.html">
-
-    <package-redirections android:name="org.adwfreak.launcher"
-        android:minSdkVersion="7"
-        android:resource="@xml/org_adwfreak_launcher" />
-
-    <package-redirections android:name="com.thedeck.android.app"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_thedeck_android_app" />
-
-</theme-redirections>
+<resource-redirections>
+    <item name="drawable/blackbird">@drawable/com_thedeck_android_app_blackbird</item>
+    <item name="drawable/blackbird_down">@drawable/com_thedeck_android_app_blackbird_down</item>
+    <item name="drawable/blackbird_error">@drawable/com_thedeck_android_app_blackbird_error</item>
+</resource-redirections>
