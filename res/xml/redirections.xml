@@ -27,4 +27,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_thedeck_android_app" />
 
+    <package-redirections android:name="com.twitter.android"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_twitter_android" />
+
 </theme-redirections>
