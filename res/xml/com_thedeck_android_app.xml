@@ -19,4 +19,7 @@
     <item name="drawable/blackbird">@drawable/com_thedeck_android_app_blackbird</item>
     <item name="drawable/blackbird_down">@drawable/com_thedeck_android_app_blackbird_down</item>
     <item name="drawable/blackbird_error">@drawable/com_thedeck_android_app_blackbird_error</item>
+    <item name="drawable/bubble_darkgrey">@drawable/com_thedeck_android_app_bubble_darkgrey</item>
+    <item name="drawable/bubble_fb">@drawable/com_thedeck_android_app_bubble_fb</item>
+    <item name="drawable/bubble_grey">@drawable/com_thedeck_android_app_bubble_grey</item>
 </resource-redirections>
