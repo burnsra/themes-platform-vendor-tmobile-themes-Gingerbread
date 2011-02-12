@@ -16,10 +16,27 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/account_switch_bg">@drawable/com_thedeck_android_app_account_switch_bg</item>
+    <item name="drawable/attatchments_grey">@drawable/com_thedeck_android_app_attatchments_grey</item>
     <item name="drawable/blackbird">@drawable/com_thedeck_android_app_blackbird</item>
     <item name="drawable/blackbird_down">@drawable/com_thedeck_android_app_blackbird_down</item>
     <item name="drawable/blackbird_error">@drawable/com_thedeck_android_app_blackbird_error</item>
+    <item name="drawable/bottom_bar">@drawable/com_thedeck_android_app_bottom_bar</item>
     <item name="drawable/bubble_darkgrey">@drawable/com_thedeck_android_app_bubble_darkgrey</item>
     <item name="drawable/bubble_fb">@drawable/com_thedeck_android_app_bubble_fb</item>
     <item name="drawable/bubble_grey">@drawable/com_thedeck_android_app_bubble_grey</item>
+    <item name="drawable/column_title_bar">@drawable/com_thedeck_android_app_column_title_bar</item>
+    <item name="drawable/comment_bg">@drawable/com_thedeck_android_app_comment_bg</item>
+    <item name="drawable/compose_topgrad">@drawable/com_thedeck_android_app_compose_topgrad</item>
+    <item name="drawable/contacts_empty">@drawable/com_thedeck_android_app_contacts_empty</item>
+    <item name="drawable/dim">@drawable/com_thedeck_android_app_dim</item>
+    <item name="drawable/grey_button_dim">@drawable/com_thedeck_android_app_grey_button_dim</item>
+    <item name="drawable/grey_button_normal">@drawable/com_thedeck_android_app_grey_button_normal</item>
+    <item name="drawable/notify_bg">@drawable/com_thedeck_android_app_notify_bg</item>
+    <item name="drawable/tab_selected">@drawable/com_thedeck_android_app_tab_selected</item>
+    <item name="drawable/tab_unselected">@drawable/com_thedeck_android_app_tab_unselected</item>
+    <item name="drawable/text_input_focus">@drawable/com_thedeck_android_app_text_input_focus</item>
+    <item name="drawable/text_input">@drawable/com_thedeck_android_app_text_input</item>
+    <item name="drawable/toolbar_bg">@drawable/com_thedeck_android_app_toolbar_bg</item>
+    <item name="drawable/top_bar">@drawable/com_thedeck_android_app_top_bar</item>
 </resource-redirections>
